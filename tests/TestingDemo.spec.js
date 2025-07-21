@@ -51,5 +51,8 @@ test("Google",async()=>{
 test("sample test",async()=>{
   console.log("Mukesh test case");
 })
+test('Branch new',async()=>{
+  console.log("New branch");
+})
 
 });
