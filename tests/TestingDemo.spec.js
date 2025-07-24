@@ -33,12 +33,12 @@ test("ZigWheels",async()=>{
       await home.bikeData();   
 });
 
-test("Used Cars",async()=>{
+test.only("Used Cars",async()=>{
         // Usedcars page Test Scenario
         const cars= new UsedCars(page);
         await cars.navigation(testData.BaseURL);
         await cars.selectOption();
-        await cars.preferredLoction(testData.CityName);
+        await cars.preferredLocation(testData.CityName);
         await cars.popularBrands();
 });
 

@@ -1,11 +1,12 @@
 import  {saveOutputToJson} from "../Utils/SimpleJson"
+import fs from "fs";
 
 export class HondaPage{
     constructor(page){
         this.page=page;
-        this.hondaFilter=this.page.locator("//a[normalize-space()='Honda']");
-        this.allUpcomingBikes=this.page.getByTitle("All Upcoming Bikes");
         this.upcomingBikes=this.page.locator("//li[@class='upcoming-bike-tab']");
+        this.allUpcomingBikes=this.page.getByTitle("All Upcoming Bikes");
+        this.hondaFilter=this.page.locator("//a[normalize-space()='Honda']");
         this.bikeNames=this.page.locator("//div[@class='p-15 pt-10 mke-ryt rel']//a");
         this.bikeRates=this.page.locator('.b fnt-15');
         this.bikeExpectedDate=this.page.locator("//div[@class='clr-try fnt-14']")
@@ -23,7 +24,7 @@ export class HondaPage{
     }
 
     async bikeData() {
-        const allbikecards = await this.page.locator("#modelList li");
+        const allbikecards = await this.page.locator("#modelList li.modelItem");
         const allBikes = [];
         const selectedBikes = [];
             
@@ -37,7 +38,7 @@ export class HondaPage{
               BikePrice: price,
               BikeExpectedDate: dateExpected
             };
-            allBikes.push(bikeDetails); // All bikes
+              allBikes.push(bikeDetails); // All bikes
         
               if (price !== null && price < 400000) {
                 selectedBikes.push(bikeDetails); // Filtered
@@ -48,6 +49,7 @@ export class HondaPage{
             allBikes,
             selectedBikes
           };  
-          saveOutputToJson(combinedJson);
+          fs.writeFileSync("Utils/output.json",JSON.stringify(combinedJson,null,2));
+          // saveOutputToJson(combinedJson);
     }
 }

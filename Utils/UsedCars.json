@@ -10,16 +10,36 @@
   {
     "Maruti Swift": [
       {
-        "BrandName": "Maruti Swift 2010-2014 Maruti Swift VXI",
-        "BrandPrice": "659000"
+        "BrandName": "Maruti Swift 2021-2024 Maruti Swift VXI BSVI",
+        "BrandPrice": "760000"
       },
       {
         "BrandName": "Maruti Swift 2010-2014 Maruti Swift VXI",
-        "BrandPrice": "632000"
+        "BrandPrice": "608000"
       },
       {
-        "BrandName": "Maruti Swift 2014-2021 Maruti Swift VXI",
-        "BrandPrice": "485000"
+        "BrandName": "Maruti Swift 2014-2021 Maruti Swift ZXI Plus",
+        "BrandPrice": "643778"
+      },
+      {
+        "BrandName": "Maruti Swift 2010-2014 Maruti Swift VXI",
+        "BrandPrice": "595000"
+      },
+      {
+        "BrandName": "Maruti Swift 2014-2021 Maruti Swift AMT VXI",
+        "BrandPrice": "645000"
+      },
+      {
+        "BrandName": "Maruti Swift 2014-2021 Maruti Swift AMT ZXI",
+        "BrandPrice": "557000"
+      },
+      {
+        "BrandName": "Maruti Swift 2021-2024 Maruti Swift VXI BSVI",
+        "BrandPrice": "695000"
+      },
+      {
+        "BrandName": "Maruti Swift 2010-2014 Maruti Swift VXI",
+        "BrandPrice": "402000"
       },
       {
         "BrandName": "Maruti Swift 2010-2014 Maruti Swift VXI",
@@ -30,72 +50,16 @@
         "BrandPrice": "427000"
       },
       {
-        "BrandName": "Maruti Swift 2010-2014 Maruti Swift VXI",
-        "BrandPrice": "608000"
-      },
-      {
-        "BrandName": "Maruti Swift 2014-2021 Maruti Swift AMT ZXI",
-        "BrandPrice": "689000"
-      },
-      {
-        "BrandName": "Maruti Swift 2014-2021 Maruti Swift AMT ZXI",
-        "BrandPrice": "690000"
-      },
-      {
-        "BrandName": "Maruti Swift 2014-2021 Maruti Swift AMT ZXI",
-        "BrandPrice": "578000"
-      },
-      {
-        "BrandName": "Maruti Swift 2010-2014 Maruti Swift VXI",
-        "BrandPrice": "396000"
-      },
-      {
-        "BrandName": "Maruti Swift 2010-2014 Maruti Swift VXI",
-        "BrandPrice": "595000"
-      },
-      {
-        "BrandName": "Maruti Swift 2014-2021 Maruti Swift VDI BSIV",
-        "BrandPrice": "495000"
-      },
-      {
-        "BrandName": "Maruti Swift 2010-2014 Maruti Swift VXI",
-        "BrandPrice": "391000"
-      },
-      {
-        "BrandName": "Maruti Swift 2014-2021 Maruti Swift AMT ZDI",
-        "BrandPrice": "580000"
-      },
-      {
-        "BrandName": "Maruti Swift 2010-2014 Maruti Swift VXI",
-        "BrandPrice": "465000"
-      },
-      {
-        "BrandName": "Maruti Swift 2010-2014 Maruti Swift ZDi",
-        "BrandPrice": "321698"
-      },
-      {
-        "BrandName": "Maruti Swift 2014-2021 Maruti Swift VDI",
-        "BrandPrice": "645000"
-      },
-      {
-        "BrandName": "Maruti Swift 2014-2021 Maruti Swift AMT ZXI",
-        "BrandPrice": "557000"
-      },
-      {
-        "BrandName": "Maruti Swift 2010-2014 Maruti Swift VXI",
-        "BrandPrice": "402000"
-      },
-      {
-        "BrandName": "Maruti Swift 2010-2014 Maruti Swift VXI",
-        "BrandPrice": "427000"
+        "BrandName": "Maruti Swift 2021-2024 Maruti Swift VXI BSVI",
+        "BrandPrice": "660000"
       },
       {
         "BrandName": "Maruti Swift 2014-2021 Maruti Swift VXI Optional",
         "BrandPrice": "499999"
       },
       {
-        "BrandName": "Maruti Swift 2010-2014 Maruti Swift VXI",
-        "BrandPrice": "568000"
+        "BrandName": "Maruti Swift 2014-2021 Maruti Swift VXI Optional",
+        "BrandPrice": "499999"
       },
       {
         "BrandName": "Maruti Swift 2010-2014 Maruti Swift VDI",
@@ -104,26 +68,142 @@
       {
         "BrandName": "Maruti Swift 2010-2014 Maruti Swift VDI",
         "BrandPrice": "370000"
+      },
+      {
+        "BrandName": "Maruti Swift 2010-2014 Maruti Swift VXI",
+        "BrandPrice": "319000"
+      },
+      {
+        "BrandName": "Maruti Swift 2014-2021 Maruti Swift VDI",
+        "BrandPrice": "519000"
+      },
+      {
+        "BrandName": "Maruti Swift 2014-2021 Maruti Swift AMT VXI",
+        "BrandPrice": "595000"
+      },
+      {
+        "BrandName": "Maruti Swift 2021-2024 Maruti Swift VXI BSVI",
+        "BrandPrice": "775000"
+      },
+      {
+        "BrandName": "Maruti Swift 2021-2024 Maruti Swift VXI BSVI",
+        "BrandPrice": "620000"
+      },
+      {
+        "BrandName": "Maruti Swift 2014-2021 Maruti Swift VDI BSIV",
+        "BrandPrice": "550000"
+      },
+      {
+        "BrandName": "Maruti Swift 2021-2024 Maruti Swift ZXI Plus BSVI",
+        "BrandPrice": "699999"
+      },
+      {
+        "BrandName": "Maruti Swift 2010-2014 Maruti Swift ZDi",
+        "BrandPrice": "350000"
+      },
+      {
+        "BrandName": "Maruti Swift 2014-2021 Maruti Swift VXI",
+        "BrandPrice": "465000"
+      },
+      {
+        "BrandName": "Maruti Swift 2014-2021 Maruti Swift VDI BSIV",
+        "BrandPrice": "499000"
+      },
+      {
+        "BrandName": "Maruti Swift 2021-2024 Maruti Swift VXI BSVI",
+        "BrandPrice": "650000"
+      },
+      {
+        "BrandName": "Maruti Swift 2014-2021 Maruti Swift AMT ZXI",
+        "BrandPrice": "678000"
+      },
+      {
+        "BrandName": "Maruti Swift 2014-2021 Maruti Swift AMT ZXI",
+        "BrandPrice": "689000"
+      },
+      {
+        "BrandName": "Maruti Swift 2010-2014 Maruti Swift VXI",
+        "BrandPrice": "632000"
+      },
+      {
+        "BrandName": "Maruti Swift 2010-2014 Maruti Swift VXI",
+        "BrandPrice": "506000"
+      },
+      {
+        "BrandName": "Maruti Swift 2010-2014 Maruti Swift VXI",
+        "BrandPrice": "568000"
+      },
+      {
+        "BrandName": "Maruti Swift 2014-2021 Maruti Swift VDI Optional",
+        "BrandPrice": "499000"
+      },
+      {
+        "BrandName": "Maruti Swift 2010-2014 Maruti Swift VXI",
+        "BrandPrice": "440000"
+      },
+      {
+        "BrandName": "Maruti Swift 2021-2024 Maruti Swift VXI AMT BSVI",
+        "BrandPrice": "625000"
+      },
+      {
+        "BrandName": "Maruti Swift 2014-2021 Maruti Swift VDI",
+        "BrandPrice": "441000"
+      },
+      {
+        "BrandName": "Maruti Swift 2004-2010 Maruti Swift Vdi BSIII",
+        "BrandPrice": "280000"
       }
     ]
   },
   {
     "Hyundai I10": [
       {
-        "BrandName": "Hyundai i10 Hyundai i10 Sportz AT",
-        "BrandPrice": "315000"
+        "BrandName": "Hyundai i10 2007-2010 Hyundai i10 Magna 1.2",
+        "BrandPrice": "249000"
+      },
+      {
+        "BrandName": "Hyundai i10 Hyundai i10 Magna",
+        "BrandPrice": "310000"
       },
       {
         "BrandName": "Hyundai i10 Hyundai i10 Magna 1.2 iTech SE",
         "BrandPrice": "335000"
       },
       {
+        "BrandName": "Hyundai i10 2007-2010 Hyundai i10 Sportz 1.2",
+        "BrandPrice": "250000"
+      },
+      {
+        "BrandName": "Hyundai i10 2007-2010 Hyundai i10 Magna 1.2",
+        "BrandPrice": "245000"
+      },
+      {
         "BrandName": "Hyundai i10 Hyundai i10 Sportz",
         "BrandPrice": "295000"
       },
       {
+        "BrandName": "Hyundai i10 Hyundai i10 Sportz",
+        "BrandPrice": "349000"
+      },
+      {
+        "BrandName": "Hyundai i10 Hyundai i10 Sportz AT",
+        "BrandPrice": "315000"
+      },
+      {
+        "BrandName": "Hyundai i10 Hyundai i10 Sportz 1.1L",
+        "BrandPrice": "450000"
+      },
+      {
+        "BrandName": "Hyundai i10 Hyundai i10 Sportz",
+        "BrandPrice": "285000"
+      },
+      {
         "BrandName": "Hyundai i10 Hyundai i10 Magna",
         "BrandPrice": "310000"
+      },
+      {
+        "BrandName": "Hyundai i10 2007-2010 Hyundai i10 Magna 1.2",
+        "BrandPrice": "250000"
       },
       {
         "BrandName": "Hyundai i10 Hyundai i10 Magna",
@@ -135,7 +215,7 @@
       },
       {
         "BrandName": "Hyundai i10 Hyundai i10 Sportz",
-        "BrandPrice": "349000"
+        "BrandPrice": "320000"
       },
       {
         "BrandName": "Hyundai i10 Hyundai i10 Era",
@@ -146,64 +226,32 @@
         "BrandPrice": "140000"
       },
       {
-        "BrandName": "Hyundai i10 Hyundai i10 Sportz 1.1L",
-        "BrandPrice": "450000"
-      },
-      {
-        "BrandName": "Hyundai i10 Hyundai i10 Magna",
-        "BrandPrice": "310000"
+        "BrandName": "Hyundai i10 2007-2010 Hyundai i10 Magna 1.2",
+        "BrandPrice": "195000"
       },
       {
         "BrandName": "Hyundai i10 Hyundai i10 Sportz AT",
         "BrandPrice": "295000"
       },
       {
-        "BrandName": "Hyundai i10 2007-2010 Hyundai i10 Magna 1.2",
-        "BrandPrice": "250000"
-      },
-      {
-        "BrandName": "Hyundai i10 2007-2010 Hyundai i10 Magna 1.2",
-        "BrandPrice": "245000"
-      },
-      {
-        "BrandName": "Hyundai i10 2007-2010 Hyundai i10 Sportz 1.2",
-        "BrandPrice": "250000"
+        "BrandName": "Hyundai i10 Hyundai i10 Sportz AT",
+        "BrandPrice": "360000"
       },
       {
         "BrandName": "Hyundai i10 Hyundai i10 Asta AT",
         "BrandPrice": "245000"
       },
       {
-        "BrandName": "Hyundai i10 Hyundai i10 Sportz",
-        "BrandPrice": "285000"
-      },
-      {
-        "BrandName": "Hyundai i10 Hyundai i10 Sportz AT",
-        "BrandPrice": "290000"
-      },
-      {
-        "BrandName": "Hyundai i10 2007-2010 Hyundai i10 Magna 1.2",
-        "BrandPrice": "195000"
-      },
-      {
-        "BrandName": "Hyundai i10 Hyundai i10 Sportz AT",
-        "BrandPrice": "325000"
-      },
-      {
-        "BrandName": "Hyundai i10 Hyundai i10 Sportz AT",
-        "BrandPrice": "360000"
-      },
-      {
-        "BrandName": "Hyundai i10 2007-2010 Hyundai i10 Sportz 1.2 AT",
-        "BrandPrice": "220000"
-      },
-      {
         "BrandName": "Hyundai i10 2007-2010 Hyundai i10 Magna 1.2",
         "BrandPrice": "130000"
       },
       {
-        "BrandName": "Hyundai i10 Hyundai i10 Magna 1.1L",
-        "BrandPrice": "290000"
+        "BrandName": "Hyundai i10 2007-2010 Hyundai i10 Sportz 1.2",
+        "BrandPrice": "165000"
+      },
+      {
+        "BrandName": "Hyundai i10 Hyundai i10 Sportz AT",
+        "BrandPrice": "325000"
       }
     ]
   },
@@ -214,19 +262,19 @@
         "BrandPrice": "215000"
       },
       {
-        "BrandName": "Hyundai Santro Xing Hyundai Santro Xing GLS",
-        "BrandPrice": "208000"
+        "BrandName": "Hyundai Santro Xing Hyundai Santro Xing GL CNG BSIV",
+        "BrandPrice": "260000"
       },
       {
-        "BrandName": "Hyundai Santro Xing Hyundai Santro Xing XO",
-        "BrandPrice": "145000"
+        "BrandName": "Hyundai Santro Xing Hyundai Santro Xing GLS",
+        "BrandPrice": "208000"
       },
       {
         "BrandName": "Hyundai Santro Xing Hyundai Santro Xing GLS",
         "BrandPrice": "232000"
       },
       {
-        "BrandName": "Hyundai Santro Xing Hyundai Santro Xing GLS",
+        "BrandName": "Hyundai Santro Xing Hyundai Santro Xing XO",
         "BrandPrice": "110000"
       },
       {
@@ -234,24 +282,24 @@
         "BrandPrice": "185000"
       },
       {
-        "BrandName": "Hyundai Santro Xing Hyundai Santro Xing XL AT eRLX Euro II",
-        "BrandPrice": "130000"
-      },
-      {
         "BrandName": "Hyundai Santro Xing Hyundai Santro Xing XL",
         "BrandPrice": "160000"
       },
       {
-        "BrandName": "Hyundai Santro Xing Hyundai Santro Xing GL CNG BSIV",
-        "BrandPrice": "260000"
+        "BrandName": "Hyundai Santro Xing Hyundai Santro Xing XO",
+        "BrandPrice": "145000"
       },
       {
         "BrandName": "Hyundai Santro Xing Hyundai Santro Xing GLS",
         "BrandPrice": "100000"
       },
       {
-        "BrandName": "Hyundai Santro Xing Hyundai Santro Xing XO",
+        "BrandName": "Hyundai Santro Xing Hyundai Santro Xing GLS",
         "BrandPrice": "110000"
+      },
+      {
+        "BrandName": "Hyundai Santro Xing Hyundai Santro Xing XL AT eRLX Euro II",
+        "BrandPrice": "130000"
       },
       {
         "BrandName": "Hyundai Santro Xing Hyundai Santro Xing Base",
@@ -274,24 +322,20 @@
   {
     "Honda City": [
       {
-        "BrandName": "Honda City 4th Generation Honda City SV MT",
-        "BrandPrice": "454000"
-      },
-      {
-        "BrandName": "Honda City 2020-2023 Honda City VX MT",
-        "BrandPrice": "548000"
+        "BrandName": "Honda City 2015-2017 Honda City i VTEC V",
+        "BrandPrice": "645000"
       },
       {
         "BrandName": "Honda City 2015-2017 Honda City i VTEC V",
         "BrandPrice": "625000"
       },
       {
-        "BrandName": "Honda City 2011-2013 Honda City V MT",
-        "BrandPrice": "295000"
+        "BrandName": "Honda City 2015-2017 Honda City i DTec V",
+        "BrandPrice": "630000"
       },
       {
-        "BrandName": "Honda City 2020-2023 Honda City VX MT",
-        "BrandPrice": "516000"
+        "BrandName": "Honda City 2015-2017 Honda City i VTEC SV",
+        "BrandPrice": "610000"
       },
       {
         "BrandName": "Honda City 2014-2015 Honda City i DTEC VX",
@@ -306,12 +350,16 @@
         "BrandPrice": "790000"
       },
       {
-        "BrandName": "Honda City 2020-2023 Honda City ZX MT",
-        "BrandPrice": "824230"
+        "BrandName": "Honda City 2014-2015 Honda City i DTEC V",
+        "BrandPrice": "495000"
       },
       {
         "BrandName": "Honda City 2020-2023 Honda City ZX MT",
         "BrandPrice": "1051313"
+      },
+      {
+        "BrandName": "Honda City 2014-2015 Honda City i DTEC V",
+        "BrandPrice": "575000"
       },
       {
         "BrandName": "Honda City 2020-2023 Honda City VX MT",
@@ -326,8 +374,16 @@
         "BrandPrice": "749000"
       },
       {
-        "BrandName": "Honda City ZX 2005-2008 Honda City VTEC",
-        "BrandPrice": "225000"
+        "BrandName": "Honda City 2015-2017 Honda City i DTec VX",
+        "BrandPrice": "650000"
+      },
+      {
+        "BrandName": "Honda City 2014-2015 Honda City i DTEC SV",
+        "BrandPrice": "720000"
+      },
+      {
+        "BrandName": "Honda City 2015-2017 Honda City i DTec VX",
+        "BrandPrice": "630000"
       },
       {
         "BrandName": "Honda City 2014-2015 Honda City i DTEC V",
@@ -338,36 +394,28 @@
         "BrandPrice": "650000"
       },
       {
-        "BrandName": "Honda City 2015-2017 Honda City i DTec V",
-        "BrandPrice": "499999"
+        "BrandName": "Honda City 4th Generation Honda City i-VTEC CVT ZX",
+        "BrandPrice": "838000"
       },
       {
-        "BrandName": "Honda City 2015-2017 Honda City i DTec V",
-        "BrandPrice": "630000"
+        "BrandName": "Honda City 2020-2023 Honda City VX MT",
+        "BrandPrice": "516000"
+      },
+      {
+        "BrandName": "Honda City 2011-2013 Honda City S",
+        "BrandPrice": "381850"
+      },
+      {
+        "BrandName": "Honda City 2014-2015 Honda City i VTEC CVT VX",
+        "BrandPrice": "550000"
       },
       {
         "BrandName": "Honda City 2014-2015 Honda City i DTEC V",
         "BrandPrice": "470000"
       },
       {
-        "BrandName": "Honda City 4th Generation Honda City i-VTEC CVT ZX",
-        "BrandPrice": "838000"
-      },
-      {
-        "BrandName": "Honda City 2015-2017 Honda City i VTEC SV",
-        "BrandPrice": "610000"
-      },
-      {
-        "BrandName": "Honda City 4th Generation Honda City i-DTEC ZX",
-        "BrandPrice": "775000"
-      },
-      {
-        "BrandName": "Honda City 2014-2015 Honda City i DTEC V",
-        "BrandPrice": "495000"
-      },
-      {
-        "BrandName": "Honda City 2014-2015 Honda City i VTEC CVT VX",
-        "BrandPrice": "550000"
+        "BrandName": "Honda City 2020-2023 Honda City ZX MT",
+        "BrandPrice": "1190000"
       }
     ]
   },
@@ -375,23 +423,23 @@
     "Toyota Innova": [
       {
         "BrandName": "Toyota Innova Toyota Innova 2.5 G (Diesel) 7 Seater BS IV",
-        "BrandPrice": "1600000"
-      },
-      {
-        "BrandName": "Toyota Innova Toyota Innova 2.5 G (Diesel) 7 Seater BS IV",
         "BrandPrice": "1400000"
       },
       {
-        "BrandName": "Toyota Innova 2009-2012 Toyota Innova 2.5 G1 BSIV",
-        "BrandPrice": "730000"
+        "BrandName": "Toyota Innova Toyota Innova 2.5 G (Diesel) 7 Seater BS IV",
+        "BrandPrice": "1650000"
       },
       {
-        "BrandName": "Toyota Innova 2012-2013 Toyota Innova 2.5 VX (Diesel) 7 Seater",
-        "BrandPrice": "830000"
+        "BrandName": "Toyota Innova Toyota Innova 2.5 G (Diesel) 7 Seater BS IV",
+        "BrandPrice": "1600000"
       },
       {
         "BrandName": "Toyota Innova Toyota Innova 2.5 VX (Diesel) 8 Seater",
         "BrandPrice": "1075000"
+      },
+      {
+        "BrandName": "Toyota Innova 2009-2012 Toyota Innova 2.5 G1 BSIV",
+        "BrandPrice": "600000"
       },
       {
         "BrandName": "Toyota Innova Toyota Innova 2.5 G (Diesel) 7 Seater BS IV",
@@ -402,36 +450,32 @@
         "BrandPrice": "585000"
       },
       {
-        "BrandName": "Toyota Innova Toyota Innova 2.5 VX (Diesel) 7 Seater",
-        "BrandPrice": "1075000"
-      },
-      {
-        "BrandName": "Toyota Innova Toyota Innova 2.5 G (Diesel) 7 Seater BS IV",
-        "BrandPrice": "1500000"
-      },
-      {
-        "BrandName": "Toyota Innova Toyota Innova 2.5 G (Diesel) 7 Seater BS IV",
-        "BrandPrice": "1150000"
-      },
-      {
-        "BrandName": "Toyota Innova 2009-2012 Toyota Innova 2.5 G1 BSIV",
-        "BrandPrice": "600000"
-      },
-      {
-        "BrandName": "Toyota Innova Toyota Innova 2.5 Z Diesel 7 Seater BS IV",
-        "BrandPrice": "999999"
-      },
-      {
-        "BrandName": "Toyota Innova Toyota Innova 2.5 VX (Diesel) 7 Seater BS IV",
-        "BrandPrice": "1075000"
+        "BrandName": "Toyota Innova Toyota Innova 2.5 G (Diesel) 8 Seater BS IV",
+        "BrandPrice": "875000"
       },
       {
         "BrandName": "Toyota Innova Toyota Innova 2.5 G (Diesel) 7 Seater BS IV",
         "BrandPrice": "1450000"
       },
       {
+        "BrandName": "Toyota Innova Toyota Innova 2.5 G (Diesel) 7 Seater BS IV",
+        "BrandPrice": "1150000"
+      },
+      {
+        "BrandName": "Toyota Innova Toyota Innova 2.5 Z Diesel 7 Seater BS IV",
+        "BrandPrice": "999999"
+      },
+      {
+        "BrandName": "Toyota Innova Toyota Innova 2.5 VX (Diesel) 7 Seater",
+        "BrandPrice": "1075000"
+      },
+      {
         "BrandName": "Toyota Innova 2004-2011 Toyota Innova 2.5 V Diesel 8-seater",
         "BrandPrice": "550000"
+      },
+      {
+        "BrandName": "Toyota Innova Toyota Innova 2.5 VX (Diesel) 7 Seater BS IV",
+        "BrandPrice": "1075000"
       },
       {
         "BrandName": "Toyota Innova Toyota Innova 2.5 G (Diesel) 8 Seater",
@@ -474,14 +518,6 @@
   {
     "Toyota Fortuner": [
       {
-        "BrandName": "Toyota Fortuner 2016-2021 Toyota Fortuner 2.8 2WD MT BSIV",
-        "BrandPrice": "2850000"
-      },
-      {
-        "BrandName": "Toyota Fortuner 2016-2021 Toyota Fortuner 2.8 4WD MT",
-        "BrandPrice": "2650000"
-      },
-      {
         "BrandName": "Toyota Fortuner Toyota Fortuner 4X2 Diesel AT",
         "BrandPrice": "1349000"
       },
@@ -498,16 +534,12 @@
         "BrandPrice": "3200000"
       },
       {
-        "BrandName": "Toyota Fortuner 2016-2021 Toyota Fortuner 2.8 4WD MT BSIV",
-        "BrandPrice": "2650000"
-      },
-      {
         "BrandName": "Toyota Fortuner 2011-2016 Toyota Fortuner 4x2 4 Speed AT",
         "BrandPrice": "1625000"
       },
       {
-        "BrandName": "Toyota Fortuner 2011-2016 Toyota Fortuner 4x4 MT",
-        "BrandPrice": "1080000"
+        "BrandName": "Toyota Fortuner 2016-2021 Toyota Fortuner 2.8 2WD MT BSIV",
+        "BrandPrice": "2850000"
       },
       {
         "BrandName": "Toyota Fortuner Toyota Fortuner GR S 4X4 Diesel AT",
@@ -518,8 +550,8 @@
         "BrandPrice": "2950000"
       },
       {
-        "BrandName": "Toyota Fortuner 2016-2021 Toyota Fortuner 2.8 2WD MT",
-        "BrandPrice": "2850000"
+        "BrandName": "Toyota Fortuner 2016-2021 Toyota Fortuner 2.8 4WD MT",
+        "BrandPrice": "2650000"
       },
       {
         "BrandName": "Toyota Fortuner 2016-2021 Toyota Fortuner 2.8 2WD AT BSIV",
@@ -538,6 +570,10 @@
         "BrandPrice": "2995000"
       },
       {
+        "BrandName": "Toyota Fortuner 2016-2021 Toyota Fortuner 2.8 4WD MT BSIV",
+        "BrandPrice": "2650000"
+      },
+      {
         "BrandName": "Toyota Fortuner 2009-2011 Toyota Fortuner 3.0 Diesel",
         "BrandPrice": "990000"
       },
@@ -547,11 +583,23 @@
       },
       {
         "BrandName": "Toyota Fortuner 2011-2016 Toyota Fortuner 4x4 MT",
+        "BrandPrice": "1080000"
+      },
+      {
+        "BrandName": "Toyota Fortuner 2016-2021 Toyota Fortuner 2.8 2WD MT",
+        "BrandPrice": "2850000"
+      },
+      {
+        "BrandName": "Toyota Fortuner 2011-2016 Toyota Fortuner 4x4 MT",
         "BrandPrice": "1295000"
       },
       {
         "BrandName": "Toyota Fortuner 2009-2011 Toyota Fortuner 3.0 Diesel",
         "BrandPrice": "850000"
+      },
+      {
+        "BrandName": "Toyota Fortuner 2016-2021 Toyota Fortuner 2.8 2WD AT BSIV",
+        "BrandPrice": "2600000"
       },
       {
         "BrandName": "Toyota Fortuner Toyota Fortuner 4X2 Diesel AT",
@@ -564,10 +612,6 @@
       {
         "BrandName": "Toyota Fortuner 2011-2016 Toyota Fortuner 4x2 Manual",
         "BrandPrice": "1250000"
-      },
-      {
-        "BrandName": "Toyota Fortuner 2016-2021 Toyota Fortuner 2.8 2WD MT BSIV",
-        "BrandPrice": "2850000"
       }
     ]
   },
@@ -578,12 +622,20 @@
         "BrandPrice": "730000"
       },
       {
+        "BrandName": "Mahindra XUV500 Mahindra XUV500 W9",
+        "BrandPrice": "1450000"
+      },
+      {
         "BrandName": "Mahindra XUV500 Mahindra XUV500 W7",
         "BrandPrice": "1058383"
       },
       {
         "BrandName": "Mahindra XUV500 Mahindra XUV500 R W10 FWD",
         "BrandPrice": "900000"
+      },
+      {
+        "BrandName": "Mahindra XUV500 Mahindra XUV500 W7 AT BSIV",
+        "BrandPrice": "1150000"
       },
       {
         "BrandName": "Mahindra XUV500 2011-2015 Mahindra XUV500 W4",
@@ -594,28 +646,24 @@
         "BrandPrice": "880000"
       },
       {
-        "BrandName": "Mahindra XUV500 Mahindra XUV500 W9",
-        "BrandPrice": "1450000"
+        "BrandName": "Mahindra XUV500 Mahindra XUV500 W5",
+        "BrandPrice": "1022000"
+      },
+      {
+        "BrandName": "Mahindra XUV500 2011-2015 Mahindra XUV500 W4",
+        "BrandPrice": "645000"
       },
       {
         "BrandName": "Mahindra XUV500 2011-2015 Mahindra XUV500 W8 FWD",
         "BrandPrice": "550000"
       },
       {
-        "BrandName": "Mahindra XUV500 Mahindra XUV500 W11 AT BSIV",
-        "BrandPrice": "1550000"
-      },
-      {
-        "BrandName": "Mahindra XUV500 Mahindra XUV500 W7",
-        "BrandPrice": "1058250"
+        "BrandName": "Mahindra XUV500 Mahindra XUV500 W11 FWD Diesel",
+        "BrandPrice": "1350000"
       },
       {
         "BrandName": "Mahindra XUV500 2011-2015 Mahindra XUV500 W8 FWD",
         "BrandPrice": "475000"
-      },
-      {
-        "BrandName": "Mahindra XUV500 Mahindra XUV500 W11 AT BSIV",
-        "BrandPrice": "995000"
       },
       {
         "BrandName": "Mahindra XUV500 Mahindra XUV500 W6 2WD",
@@ -630,32 +678,24 @@
         "BrandPrice": "560000"
       },
       {
-        "BrandName": "Mahindra XUV500 2011-2015 Mahindra XUV500 W6 2WD",
-        "BrandPrice": "580000"
-      },
-      {
-        "BrandName": "Mahindra XUV500 Mahindra XUV500 W7 AT BSIV",
-        "BrandPrice": "1150000"
-      },
-      {
         "BrandName": "Mahindra XUV500 Mahindra XUV500 W11 FWD Diesel",
         "BrandPrice": "1399000"
       },
       {
-        "BrandName": "Mahindra XUV500 Mahindra XUV500 W5",
-        "BrandPrice": "1022000"
-      },
-      {
-        "BrandName": "Mahindra XUV500 2011-2015 Mahindra XUV500 W4",
-        "BrandPrice": "645000"
+        "BrandName": "Mahindra XUV500 Mahindra XUV500 W11 AT BSIV",
+        "BrandPrice": "1550000"
       },
       {
         "BrandName": "Mahindra XUV500 Mahindra XUV500 W7 BSIV",
         "BrandPrice": "1050000"
       },
       {
-        "BrandName": "Mahindra XUV500 Mahindra XUV500 W11 Option BSIV",
-        "BrandPrice": "1290000"
+        "BrandName": "Mahindra XUV500 Mahindra XUV500 W11 AT BSIV",
+        "BrandPrice": "995000"
+      },
+      {
+        "BrandName": "Mahindra XUV500 2011-2015 Mahindra XUV500 W6 2WD",
+        "BrandPrice": "580000"
       },
       {
         "BrandName": "Mahindra XUV500 Mahindra XUV500 W4",
@@ -666,8 +706,12 @@
         "BrandPrice": "645000"
       },
       {
+        "BrandName": "Mahindra XUV500 Mahindra XUV500 W11 Option BSIV",
+        "BrandPrice": "1290000"
+      },
+      {
         "BrandName": "Mahindra XUV500 Mahindra XUV500 W11 FWD Diesel",
-        "BrandPrice": "1350000"
+        "BrandPrice": "1000000"
       }
     ]
   }
