@@ -11,28 +11,28 @@ const testData = require("../Utils/InputData.json");
 const FILE_PATH = path.join(__dirname, "../Utils/output.json");
 const FILE_PATH1 = path.join(__dirname, "../Utils/UsedCars.json");
 
-test.beforeAll(() => {
-    // Reset the JSON file before tests run
-    fs.writeFileSync(FILE_PATH, JSON.stringify([], null, 2));
-    fs.writeFileSync(FILE_PATH1, JSON.stringify([], null, 2));
-    console.log(' clearing Json  at the beginning of test suite');
+  test.beforeAll(() => {
+      // Reset the JSON file before tests run
+      fs.writeFileSync(FILE_PATH, JSON.stringify([], null, 2));
+      fs.writeFileSync(FILE_PATH1, JSON.stringify([], null, 2));
+      console.log(' clearing Json  at the beginning of test suite');
   });
+
 let page;
 let home;
 let cars;
 let google;
 
-test.beforeEach(async () => {
-    const browser = await chromium.launch({ args: ['--start-maximized'] });
-    const context = await browser.newContext({viewport:null,deviceScaleFactor: undefined});
-    page = await context.newPage();
-    home = new HondaPage(page);
-    cars = new UsedCars(page);
-    google = new GooglePage(page);
-});
+  test.beforeEach(async () => {
+      const browser = await chromium.launch({ args: ['--start-maximized'] });
+      const context = await browser.newContext({viewport:null,deviceScaleFactor: undefined});
+      page = await context.newPage();
+      home = new HondaPage(page);
+      cars = new UsedCars(page);
+      google = new GooglePage(page);
+  });
 
 test.describe('Honda Bikes Tests', () => {
-
     test('Navigation', async () => {
       await home.navigateToUrl(testData.BaseURL);
       await expect(page).toHaveURL(/zigwheels\.com/);
@@ -58,11 +58,9 @@ test.describe('Honda Bikes Tests', () => {
         await home.upcomingBikesFilter();
         await home.bikeData();
     });
-
 });
 
-test.describe.only('Used Cars Tests', () => {
-
+test.describe('Used Cars Tests', () => {
     test('Navigate to Used Cars Page', async () => {
         await cars.navigation(testData.BaseURL);
         await expect(page).toHaveURL(/zigwheels\.com/);
@@ -86,11 +84,7 @@ test.describe.only('Used Cars Tests', () => {
     await cars.preferredLoction(testData.CityName);
     await cars.popularBrands();
     });
-
-
-
 });
-
 
 test.describe('Google-sign in page Tests', () => {
     test("Google URL Navigation", async () => {
@@ -103,6 +97,5 @@ test.describe('Google-sign in page Tests', () => {
     // Google sign in  page Test Scenario
       const google= new GooglePage(page);
       await google.NavigateUrl(testData.BaseURL);
-    })
-
+    });
 });
