@@ -33,7 +33,7 @@ test("ZigWheels",async()=>{
       await home.bikeData();   
 });
 
-test.only("Used Cars",async()=>{
+test("Used Cars",async()=>{
         // Usedcars page Test Scenario
         const cars= new UsedCars(page);
         await cars.navigation(testData.BaseURL);
