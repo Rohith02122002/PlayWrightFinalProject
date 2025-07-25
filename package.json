@@ -2,7 +2,10 @@
   "name": "majorprojectpw",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "Testcases":"npx playwright test TestCasesDemo.spec.js --headed",
+    "Tests":"npx playwright test TestingDemo.spec.js --headed"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
